@@ -1,6 +1,6 @@
 body{color: rgb(19, 18, 15);background-color: rgb(202, 111, 111); margin: auto;}
-h1{color: red; text-align: center;}
-h2{color: rgb(236, 77, 77); text-align: center;}
+h1{color: rgb(200, 186, 186); text-align: center;}
+h2{color: rgb(192, 163, 163); text-align: center;}
 image{
   display: flex;
   gap: 10px;
