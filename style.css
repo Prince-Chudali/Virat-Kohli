@@ -1,0 +1,7 @@
+body{color: rgb(19, 18, 15);background-color: rgb(243, 240, 240); margin: auto;}
+h1{color: red; text-align: center;}
+h2{color: rgb(236, 77, 77); text-align: center;}
+image{
+  display: flex;
+  gap: 10px;
+}
